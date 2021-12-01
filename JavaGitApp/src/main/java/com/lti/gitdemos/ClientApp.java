@@ -8,6 +8,7 @@ public class ClientApp {
 		
 		System.out.println(p1);
 System.out.println("Welcome");
+System.out.println("Hi");
 	}
 
 }
