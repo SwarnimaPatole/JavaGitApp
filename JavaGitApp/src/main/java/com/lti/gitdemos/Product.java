@@ -1,7 +1,7 @@
 package com.lti.gitdemos;
 
 public class Product {
-
+private int n;
 	private int prdId;
 	private String prdName;
 	public Product(int prdId, String prdName) {
